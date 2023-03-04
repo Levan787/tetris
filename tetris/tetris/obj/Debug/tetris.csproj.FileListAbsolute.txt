@@ -1,0 +1,10 @@
+C:\Users\Mistera\source\repos\tetris\tetris\bin\Debug\tetris.exe.config
+C:\Users\Mistera\source\repos\tetris\tetris\bin\Debug\tetris.exe
+C:\Users\Mistera\source\repos\tetris\tetris\bin\Debug\tetris.pdb
+C:\Users\Mistera\source\repos\tetris\tetris\obj\Debug\tetris.csprojAssemblyReference.cache
+C:\Users\Mistera\source\repos\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+C:\Users\Mistera\source\repos\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.cache
+C:\Users\Mistera\source\repos\tetris\tetris\obj\Debug\tetris.csproj.CoreCompileInputs.cache
+C:\Users\Mistera\source\repos\tetris\tetris\obj\Debug\tetris.exe
+C:\Users\Mistera\source\repos\tetris\tetris\obj\Debug\tetris.pdb
+C:\Users\Mistera\source\repos\tetris\tetris\obj\Debug\tetris.Tetris.resources
